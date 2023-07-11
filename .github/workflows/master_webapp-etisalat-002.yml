@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'webapp-etisalat-002'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5335F174EF34F088741483F6E71D837 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5D906E473F84BF3BCB3B11D03ED9F66 }}
           package: .
